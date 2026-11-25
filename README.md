@@ -152,6 +152,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Automated extraction, transformation, and analysis of information from documents to make their content usable by software systems.
 
 - <img src="https://avatars.githubusercontent.com/u/166614754?s=200&v=4" height="14"/> [Adeu](https://github.com/dealfluence/adeu) - Automated DOCX Redlining Engine and "Virtual DOM" for Microsoft Word. Enables agents to read, diff, edit, and negotiate contracts locally or via live COM interop.
+- <img src="https://www.exifstudio.online/icon-512.png" height="14"/> [ExifStudio](https://github.com/samsali-g/exifstudio-mcp) - Zero-auth remote MCP server (`https://www.exifstudio.online/mcp`) exposing 100% browser-local EXIF/IPTC/XMP/GPS stripping, C2PA inspection, camera shutter count, and PDF metadata removal tools.
 
 
 <br />
@@ -212,6 +213,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
+- <img src="https://alfalaki.space/icon-192.png" height="14"/> [Alfalaki Astrology](https://github.com/samsali-g/alfalaki-mcp) - Real-ephemeris (VSOP87/ELP2000) astrology MCP server & stdio bridge (`https://alfalaki.space/mcp`) serving live planetary positions, zodiac signs, horoscopes, placements, synastry, and tarot in EN/AR.
+- <img src="https://www.wedmaroc.com/icon-192x192.png" height="14"/> [WedMaroc](https://github.com/samsali-g/wedmaroc-mcp) - Zero-auth remote MCP server (`https://www.wedmaroc.com/mcp`) for 2026 Moroccan wedding budget estimates in MAD, city cost multipliers, and vendor price benchmarks (AR/FR/EN).
 - <img src="https://cdn.simpleicons.org/puppeteer/00D8A2" height="14"/> [Puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) - Browser automation for web scraping and interaction
 - <img src="https://cdn.simpleicons.org/brave/FB542B" height="14"/> [Brave Search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) - Web search capabilities using Brave's Search API
 - <img src="https://github.com/user-attachments/assets/5d9346e8-7821-4202-80cd-25e0678d3400" height="14"/> [Bright Data](https://github.com/luminati-io/brightdata-mcp) - Discover, extract, and interact with the web - one interface powering automated access across the public internet.
